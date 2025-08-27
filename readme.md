@@ -24,4 +24,4 @@ O objetivo foi praticar conceitos de lógica de programação, manipulação do 
 ---
 
 ## 🚀 Como testar o projeto
-1. Acesse o link do deploy: [Pacman](https://)
+1. Acesse o link do deploy: [Pacman](https://karathus.github.io/Pacman/)
